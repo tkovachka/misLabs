@@ -1,6 +1,17 @@
-# lab2
+# MIS Laboratory Exercises: Laboratory Exercise 2
+A branch for the second laboratory exercise for the subject Mobile Information Systems at FSCE. 
 
-A new Flutter project.
+## Repository Structure
+Checkout the branch of the exercise to view it.
+```bash
+git clone http://github.com/tkovachka/misLabs.git
+cd misLabs
+git checkout lab2
+```
+Or:
+```bash
+git clone --branch lab2 https://github.com/tkovachka/misLabs.git
+```
 
 ## Getting Started
 
